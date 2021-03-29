@@ -9,6 +9,7 @@ public class HelloController {
     @RequestMapping("/hello")
     //@RequestMapping defined in the class level maps a specific request path or pattern to a controller.
     public String sayHi(){
-        return "Hello 3";
+        return "Hello 3"
+            + "Hello 4";
     }
 }
