@@ -13,7 +13,7 @@ public class HelloController {
             + "Hello 4" 
             + "Hello there"
             + "Hello there 2"
-            + "Hello alina-br2";
+            + "Hello alina-br2"
             + "Hello 5";
     }
 }
